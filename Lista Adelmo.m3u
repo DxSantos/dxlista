@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name"Fox Sports" tvg-logo="https://ia601407.us.archive.org/18/items/foxsports_202001/foxsports.png" group-title="Esporte",Fox Sports HD
-https://tcloud1.azureedge.net/hls1/foxsports1.m3u8?wmsAuthSign=
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=3af5d03a7b6da6dd3f66dc4020666700
 #EXTINF:-1 tvg-id="SporTV" tvg-name"SporTV HD" tvg-logo="https://ia801504.us.archive.org/23/items/1200pxsportvlogo2011/1200px-SporTV_logo_2011.png" group-title="Esporte",SporTV HD
-https://tcloud1.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=
+http://lb.kstream.org/aovivo/SD_SPORTV_1/video.m3u8?token=3af5d03a7b6da6dd3f66dc4020666700
 #EXTINF:-1,iptvtools_3
 https://tcloud1.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=
 #EXTINF:-1,iptvtools_4
