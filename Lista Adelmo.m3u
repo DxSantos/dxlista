@@ -1,39 +1,21 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name"Fox Sports" tvg-logo="https://ia601407.us.archive.org/18/items/foxsports_202001/foxsports.png" group-title="Esporte",Fox Sports HD
-http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=3af5d03a7b6da6dd3f66dc4020666700
-#EXTINF:-1 tvg-id="SporTV" tvg-name"SporTV HD" tvg-logo="https://ia801504.us.archive.org/23/items/1200pxsportvlogo2011/1200px-SporTV_logo_2011.png" group-title="Esporte",SporTV HD
-http://lb.kstream.org/aovivo/SD_SPORTV_1/video.m3u8?token=3af5d03a7b6da6dd3f66dc4020666700
-#EXTINF:-1,iptvtools_3
-https://tcloud1.azureedge.net/hls1/sportv2.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_4
-https://tcloud1.azureedge.net/hls1/sportv3.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_5
-https://tcloud1.azureedge.net/hls1/espnbrasil.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_6
-https://tcloud1.azureedge.net/hls1/premiereclubes.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_7
-https://tcloud1.azureedge.net/hls1/premiere2.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_8
-https://tcloud1.azureedge.net/hls1/premiere3.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_9
-https://tcloud1.azureedge.net/hls1/premiere4.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_10
-https://tcloud1.azureedge.net/hls1/premiere5.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_11
-https://tcloud1.azureedge.net/hls1/premiere6.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_12
-https://tcloud1.azureedge.net/hls1/premiere7.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_13
-https://tcloud1.azureedge.net/hls1/mtvlive.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_14
-https://tcloud1.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_15
-https://tcloud1.azureedge.net/hls1/gloob.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_16
-https://tcloud1.azureedge.net/hls1/discoverykids.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_17
-https://tcloud1.azureedge.net/hls1/space.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_18
-https://tcloud1.azureedge.net/hls1/fx.m3u8?wmsAuthSign=
-#EXTINF:-1,iptvtools_19
-https://tcloud1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://www.nflregionalcombines.com/Images/NFLShield.png" group-title="Esporte", NFL
+https://goo.gl/jng6rW
+#EXTINF: -1 tvg-logo="http://s2.glbimg.com/NW2onetVxfLb7FFyfz945zIqhm4=/s.glbimg.com/vi/mk/channel/1960/logotipo_xl/13/1280x720.png" group-title="Esporte", Combate
+http://goo.gl/t8LrzT
+#EXTINF: -1 tvg-logo="http://mundocross.com.br/wp-content/uploads/2011/05/logo-band-sports.png" group-title="Esporte", Band Sports
+http://goo.gl/b1VNB8
+#EXTINF: -1 tvg-logo="https://logosc.ucoz.com/ESPN-Brasil.png" group-title="Esporte", Espn
+http://goo.gl/GwBMAl
+#EXTINF: -1 tvg-logo="https://logosc.ucoz.com/Esporte-Interativo.png" group-title="Esporte", Esporte Interativo
+http://goo.gl/Bx9lKy
+#EXTINF: -1 tvg-logo="https://logosc.ucoz.com/Esporte-Interativo-Nordeste.png" group-title="Esporte", esporte int Nordeste
+http://goo.gl/m3w9Ey
+#EXTINF: -1 tvg-logo="https://logosc.ucoz.com/Fox-Sports.png" group-title="Esporte", Fox Sports
+http://goo.gl/2GxOT7
+#EXTINF: -1 tvg-logo="https://logosc.ucoz.com/SporTV-2.png" group-title="Esporte", SporTV2
+http://goo.gl/vtGyTX
+#EXTINF: -1 tvg-logo="https://logosc.ucoz.com/SporTV-3.png" group-title="Esporte", SporTV3
+http://goo.gl/6ju0FK
+#EXTINF: -1 tvg-logo="https://logosc.ucoz.com/SporTV.png" group-title="Esporte", SporTV
+http://goo.gl/B5d4fq
